@@ -1,0 +1,10 @@
+c:\users\brand\source\repos\Inventario con listas dobles\Inventario con listas dobles\bin\Debug\Inventario con listas dobles.exe.config
+c:\users\brand\source\repos\Inventario con listas dobles\Inventario con listas dobles\bin\Debug\Inventario con listas dobles.exe
+c:\users\brand\source\repos\Inventario con listas dobles\Inventario con listas dobles\bin\Debug\Inventario con listas dobles.pdb
+c:\users\brand\source\repos\Inventario con listas dobles\Inventario con listas dobles\obj\Debug\Inventario con listas dobles.csprojResolveAssemblyReference.cache
+c:\users\brand\source\repos\Inventario con listas dobles\Inventario con listas dobles\obj\Debug\Inventario_con_listas_dobles.Form1.resources
+c:\users\brand\source\repos\Inventario con listas dobles\Inventario con listas dobles\obj\Debug\Inventario_con_listas_dobles.Properties.Resources.resources
+c:\users\brand\source\repos\Inventario con listas dobles\Inventario con listas dobles\obj\Debug\Inventario con listas dobles.csproj.GenerateResource.Cache
+c:\users\brand\source\repos\Inventario con listas dobles\Inventario con listas dobles\obj\Debug\Inventario con listas dobles.csproj.CoreCompileInputs.cache
+c:\users\brand\source\repos\Inventario con listas dobles\Inventario con listas dobles\obj\Debug\Inventario con listas dobles.exe
+c:\users\brand\source\repos\Inventario con listas dobles\Inventario con listas dobles\obj\Debug\Inventario con listas dobles.pdb
